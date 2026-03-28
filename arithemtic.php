@@ -14,7 +14,7 @@ $number++;
 // subtraction
 
 $bill = 100 ;
-$payment = 70 ;
+$payment = 76 ;
 
 $balance = $bill - $payment ;
 

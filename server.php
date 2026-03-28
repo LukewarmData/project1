@@ -26,6 +26,9 @@
         </td>
         <td>
             <?php echo $value;?>
+            <h1>
+                SUKA
+            </h1>
         </td>
     </tr>
 
